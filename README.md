@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PYTHONLL-kang
 - 👀 I’m interested in PYTHON
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Java script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
