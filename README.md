@@ -9,6 +9,8 @@
   <li>⌨️ Language :</li>
   <ol>
     <li>Python</li>
+    <li>C</li>
+    <li>JS</li>
     <li>HTML, CSS (Is it programming lang? 😆)</li>
   </ol>
   </ol>
@@ -25,3 +27,4 @@
   <li>KDMHS AI Club “METARAIN” 1st</li>
   <li>Learning assembly</li>
   </ol>
+  
