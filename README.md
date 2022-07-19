@@ -27,4 +27,3 @@
   <li>KDMHS AI Club “METARAIN” 1st</li>
   <li>Learning assembly</li>
   </ol>
-  
