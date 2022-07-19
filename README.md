@@ -9,7 +9,7 @@
   <li>⌨️ Language :</li>
   <ol>
     <li>Python</li>
-    <li>js</li>
+    <li>HTML, CSS (Is it programming lang? 😆)</li>
   </ol>
   </ol>
   
