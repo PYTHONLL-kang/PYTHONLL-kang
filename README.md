@@ -1,5 +1,26 @@
-- 👋 Hi, I’m @PYTHONLL-kang
-- 👀 I’m interested in PYTHON
-- 🌱 I’m currently learning Java script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2> My Info </h2>
+<ol>
+  <li>😁Name : Lee kang </li>
+  <li>🇰🇷 Country : South Korea</li>
+  <li>🔙 Development Position : </li>
+  <ol> 
+    <li> Al</li>
+  </ol>
+  <li>⌨️ Language :</li>
+  <ol>
+    <li>Python</li>
+    <li>js</li>
+  </ol>
+  </ol>
+  
+  <h2>My carrer</h2>
+  <ol>
+  <li>KDMHS 21th Web Programming</li>
+  </ol>
+  
+  <h2>My Activities</h2>
+  <ol>
+  <li>2022 LG CNS AI Genius Academy</li>
+  <li>KDMHS AI Club “METARAIN” 12th</li>
+  <li>Learning assembly</li>
+  </ol>
