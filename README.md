@@ -16,7 +16,7 @@
   <h2>My carrer</h2>
   <ol>
   <li>KDMHS 21th Web Programming</li>
-  <li> tetr.io A+</li>
+  <li> <a herf = "tetr.io"><h2> tetr.io A+</h2></a></li>
   </ol>
   
   <h2>My Activities</h2>
