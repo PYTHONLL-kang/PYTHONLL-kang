@@ -24,6 +24,6 @@
   <h2>My Activities</h2>
   <ol>
   <li>2022 LG CNS AI Genius Academy</li>
-  <li>KDMHS AI Club “METARAIN” 1st</li>
+  <li>KDMHS AI Club “META-RAIN” 1st</li>
   <li>Learning assembly</li>
   </ol>
