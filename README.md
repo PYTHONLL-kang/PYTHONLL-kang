@@ -18,7 +18,7 @@
   <h2>My carrer</h2>
   <ol>
   <li>KDMHS 21th Web Programming</li>
-  <li> <h2> tetr.io A+</h2></li>
+  <li> <b>tetr.io A+</b></li>
   </ol>
   
   <h2>My Activities</h2>
