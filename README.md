@@ -8,7 +8,7 @@
   </ol>
   <li>⌨️ Language :</li>
   <ol>
-    <li>Python</li>
+    <li>Python (My first programming lang)</li>
     <li>C</li>
     <li>JS</li>
     <li>HTML, CSS (Is it programming lang? 😆)</li>
