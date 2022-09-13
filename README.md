@@ -10,7 +10,6 @@
   <ol>
     <li>Python (My first programming lang)</li>
     <li>C</li>
-    <li>JS</li>
     <li>HTML, CSS (Is it programming lang? 😆)</li>
   </ol>
   </ol>
@@ -25,5 +24,6 @@
   <ol>
   <li>2022 LG CNS AI Genius Academy</li>
   <li>KDMHS AI Club “META-RAIN” 1st</li>
+  <li>KDMHS AI Club "FREGIC" 13th</li>
   <li>Learning assembly</li>
   </ol>
