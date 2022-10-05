@@ -10,11 +10,12 @@
   <ol>
     <li>Python (My first programming lang)</li>
     <li>C</li>
-    <li>HTML, CSS (Is it programming lang? 😆)</li>
+    <li>HTML, CSS</li>
+    <li>JS</li>
   </ol>
   </ol>
   
-  <h2>My carrer</h2>
+  <h2>My career</h2>
   <ol>
   <li>KDMHS 21th Web Programming</li>
   <li> <b>tetr.io S+</b></li>
@@ -23,7 +24,7 @@
   <h2>My Activities</h2>
   <ol>
   <li>2022 LG CNS AI Genius Academy</li>
+  <li>2022 09th Supercomputing Youth Camp</li>
   <li>KDMHS AI Club “META-RAIN” 1st</li>
-  <li>KDMHS AI Club "FREGIC" 13th</li>
   <li>Learning assembly</li>
   </ol>
