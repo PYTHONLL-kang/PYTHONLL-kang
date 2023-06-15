@@ -14,6 +14,7 @@
    <li>C</li>
    <li>HTML, CSS</li>
    <li>JS</li>
+   <li>tetr.io SS</li>
  </ol>
 </ol>
   
@@ -30,5 +31,3 @@
     <li>2022 LG CNS AI Genius Academy</li>
     <li>2022 09th Supercomputing Youth Camp</li>
   </ol>
-<h2></h2>
-<b>tetr.io SS<b>
