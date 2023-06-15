@@ -30,5 +30,5 @@
     <li>2022 LG CNS AI Genius Academy</li>
     <li>2022 09th Supercomputing Youth Camp</li>
   </ol>
-
-<h2>tetr.io SS</h2>
+<h2></h2>
+<b>tetr.io SS<b>
