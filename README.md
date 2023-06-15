@@ -21,6 +21,9 @@
 <h2>My career</h2>
   <ol>
     <li>KDMHS 21th Web Programming</li>
+    <li>KDMHS AI Club “META-RAIN” 1st</li>
+    <li>KDMHS AI Club "FREGIC" 13rd</li>
+    <li>KDMHS SW Club "EXPLUDE" 1st</li>
     <li> <b>tetr.io SS</b></li>
   </ol>
   
@@ -28,7 +31,4 @@
   <ol>
     <li>2022 LG CNS AI Genius Academy</li>
     <li>2022 09th Supercomputing Youth Camp</li>
-    <li>KDMHS AI Club “META-RAIN” 1st</li>
-    <li>KDMHS AI Club "FREGIC" 13rd</li>
-    <li>KDMHS AI Club "EXPLUDE" 1st</li>
   </ol>
