@@ -14,8 +14,8 @@
    <li>C</li>
    <li>HTML, CSS</li>
    <li>JS</li>
-   <li>tetr.io SS</li>
  </ol>
+  <li>tetr.io SS</li>
 </ol>
   
 <h2>My career</h2>
