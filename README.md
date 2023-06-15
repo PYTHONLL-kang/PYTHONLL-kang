@@ -3,11 +3,10 @@
   <li>Name : Lee kang </li>
   <li>Country : South Korea</li>
   <li>Development Position : </li>
-  
-  <ol> 
+    <ol> 
      <li>Al</li>
-    <li>Backend</li>
-  </ol>
+      <li>Backend</li>
+    </ol>
  
   <li>Language :</li>
   <ol>
@@ -24,7 +23,6 @@
     <li>KDMHS AI Club “META-RAIN” 1st</li>
     <li>KDMHS AI Club "FREGIC" 13rd</li>
     <li>KDMHS SW Club "EXPLUDE" 1st</li>
-    <li> <b>tetr.io SS</b></li>
   </ol>
   
 <h2>My Activities</h2>
@@ -32,3 +30,5 @@
     <li>2022 LG CNS AI Genius Academy</li>
     <li>2022 09th Supercomputing Youth Camp</li>
   </ol>
+
+<h2>tetr.io SS</h2>
