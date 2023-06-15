@@ -24,6 +24,7 @@
     <li>KDMHS AI Club “META-RAIN” 1st</li>
     <li>KDMHS AI Club "FREGIC" 13rd</li>
     <li>KDMHS SW Club "EXPLUDE" 1st</li>
+    <li>KDMHS IT-LAB "TURING"</li>
   </ol>
   
 <h2>My Activities</h2>
