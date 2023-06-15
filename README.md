@@ -1,13 +1,13 @@
 <h2> My Info </h2>
 <ol>
-  <li>😁Name : Lee kang </li>
+  <li>Name : Lee kang </li>
   <li>🇰🇷 Country : South Korea</li>
-  <li>🔙 Development Position : </li>
+  <li>Development Position : </li>
   <ol> 
-    <li> Al</li>
-    <li> Backend</li>
+    <li>Al</li>
+    <li>Backend</li>
   </ol>
-  <li>⌨️ Language :</li>
+  <li>Language :</li>
   <ol>
     <li>Python (My first programming lang)</li>
     <li>C</li>
