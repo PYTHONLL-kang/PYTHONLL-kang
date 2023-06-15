@@ -2,6 +2,7 @@
 <ol>
   <li>Name : Lee kang </li>
   <li>Country : South Korea</li>
+  <li>Rank : tetr.io SS</li>
   <li>Development Position : </li>
     <ol> 
      <li>Al</li>
@@ -15,7 +16,6 @@
    <li>HTML, CSS</li>
    <li>JS</li>
  </ol>
-  <li>tetr.io SS</li>
 </ol>
   
 <h2>My career</h2>
