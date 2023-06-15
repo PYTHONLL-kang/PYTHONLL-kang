@@ -4,7 +4,8 @@
   <li>🇰🇷 Country : South Korea</li>
   <li>🔙 Development Position : </li>
   <ol> 
-    <li> Al, Backend</li>
+    <li> Al</li>
+    <li> Backend</li>
   </ol>
   <li>⌨️ Language :</li>
   <ol>
