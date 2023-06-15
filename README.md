@@ -4,7 +4,7 @@
   <li>🇰🇷 Country : South Korea</li>
   <li>🔙 Development Position : </li>
   <ol> 
-    <li> Al</li>
+    <li> Al, Backend</li>
   </ol>
   <li>⌨️ Language :</li>
   <ol>
@@ -26,5 +26,7 @@
   <li>2022 LG CNS AI Genius Academy</li>
   <li>2022 09th Supercomputing Youth Camp</li>
   <li>KDMHS AI Club “META-RAIN” 1st</li>
+  <li>KDMHS AI Club "FREGIC" 13rd</li>
+  <li>KDMHS AI Club "EXPLUDE" 1st</li>
   <li>Learning assembly</li>
   </ol>
