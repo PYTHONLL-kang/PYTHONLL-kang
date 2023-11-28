@@ -24,11 +24,12 @@
     <li>KDMHS AI Club “META-RAIN” 1st</li>
     <li>KDMHS AI Club "FREGIC" 13rd</li>
     <li>KDMHS SW Club "EXPLUDE" 1st</li>
-    <li>KDMHS IT-LAB "TURING"</li>
+    <li>KDMHS IT-LAB "TURING" 1st</li>
   </ol>
   
 <h2>My Activities</h2>
   <ol>
     <li>2022 LG CNS AI Genius Academy</li>
     <li>2022 09th Supercomputing Youth Camp</li>
+    <li>2023 Big Data Creator Camp</li>
   </ol>
