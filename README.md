@@ -2,7 +2,7 @@
 <ol>
   <li>Name : Lee kang </li>
   <li>Country : South Korea</li>
-  /*<li>Rank : tetr.io SS</li>*/
+  <!-- <li>Rank : tetr.io SS</li> -->
   <li>Development Position : </li>
     <ol> 
      <li>Al</li>
