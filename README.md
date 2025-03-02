@@ -31,7 +31,6 @@
   
 <h2>My Activities</h2>
   <ol>
-    <li>2022 LG CNS AI Genius Academy</li>
-    <li>2022 09th Supercomputing Youth Camp</li>
-    <li>2023 Big Data Creator Camp</li>
+    <li>2023 데이터 크리에이터 캠프 대상</li>
+    <li>2022 공개SW 개발자대회 특별상</li>
   </ol>
