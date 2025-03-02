@@ -15,6 +15,8 @@
    <li>C</li>
    <li>HTML, CSS</li>
    <li>JS</li>
+    <li>GO lang</li>
+    <li>R</li>
  </ol>
 </ol>
   
